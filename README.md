@@ -116,3 +116,11 @@ git clone https://github.com/YOUR_USERNAME/pubmedqa-rag-bot.git
 cd pubmedqa-rag-bot
 
 pip install -r requirements.txt
+
+---
+
+# 🌐 Live Demo
+
+The deployed app will appear here after deployment:
+
+
